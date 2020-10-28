@@ -1,2 +1,9 @@
+// Config
 @import 'variables';
+
+// layout
 @import 'reboot';
+
+// button
+@import '../components/Button/mixin';
+@import '../components/Button/style';
